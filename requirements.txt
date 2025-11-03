@@ -1,0 +1,5 @@
+pandas
+pyarrow           # for Parquet support in processor.py and analyzer.py
+matplotlib        # for plotting sentiment trend in analyzer.py
+scikit-learn      # for TF-IDF vectorization in analyzer.py
+vaderSentiment    # for sentiment analysis in analyzer.py
